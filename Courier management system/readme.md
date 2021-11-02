@@ -1,1 +1,0 @@
-This file is based on a seamless eCommerce experience(Courier management system). A dictionary of lists is created from the data given in the problem statement. Then performed various analysis on the dictionary like tracking the shipment, routes and the time taken
